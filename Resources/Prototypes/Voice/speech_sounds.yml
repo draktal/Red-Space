@@ -180,3 +180,12 @@
     path: /Audio/Animals/goat_bah.ogg
   exclaimSound:
     path: /Audio/Animals/goat_bah.ogg
+
+- type: speechSounds
+  id: VulpSpeach
+  saySound:
+    path: /Audio/Voice/Vulpkanin/Speach3.ogg
+  askSound:
+    path: /Audio/Voice/Vulpkanin/Speach1.ogg
+  exclaimSound:
+    path: /Audio/Voice/Vulpkanin/Speach2.ogg

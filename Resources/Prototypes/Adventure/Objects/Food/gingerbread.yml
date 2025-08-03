@@ -1,0 +1,27 @@
+- type: microwaveMealRecipe
+  id: RecipeGingerbreadHuman
+  name: Рецепт пряничного человечка
+  result: MobGingerbreadAI
+  time: 30
+  reagents:
+    Cognizine: 5
+    Milk: 5
+    Sugar: 5
+  solids:
+    FoodBakedCookie: 1
+    OrganHumanHeart: 1
+    FoodSpaceshroomCooked: 1
+
+- type: microwaveMealRecipe
+  id: RecipeGingerbreadAnimal
+  name: Рецепт пряничного человечка
+  result: MobGingerbreadAI
+  time: 30
+  reagents:
+    Cognizine: 5
+    Milk: 5
+    Sugar: 5
+  solids:
+    FoodBakedCookie: 1
+    OrganAnimalHeart: 1
+    FoodSpaceshroomCooked: 1

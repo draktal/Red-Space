@@ -1,0 +1,19 @@
+- type: guideEntry
+  id: PigMan
+  name: Троттин
+  text: "/ServerInfo/Adventure/Guidebook/Races/PigMan.xml"
+
+- type: guideEntry
+  id: Skrell
+  name: Скрелл
+  text: "/ServerInfo/Adventure/Guidebook/Races/Skrell.xml"
+
+- type: guideEntry
+  id: Snake
+  name: Зерах
+  text: "/ServerInfo/Adventure/Guidebook/Races/Snake.xml"
+
+- type: guideEntry
+  id: Drask
+  name: Драск
+  text: "/ServerInfo/Adventure/Guidebook/Races/Drask.xml"

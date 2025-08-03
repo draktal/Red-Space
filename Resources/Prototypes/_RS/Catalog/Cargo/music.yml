@@ -1,0 +1,39 @@
+- type: cargoProduct
+  id: MusicRandom1
+  icon:
+    sprite: _RS/Objects/Devices/tapes.rsi
+    state: tape23
+  product: CrateMusicRandom1
+  cost: 1950
+  category: Service
+  group: market
+
+- type: cargoProduct
+  id: MusicRandom2
+  icon:
+    sprite: _RS/Objects/Devices/tapes.rsi
+    state: tape26
+  product: CrateMusicRandom2
+  cost: 2250
+  category: Service
+  group: market
+
+- type: cargoProduct
+  id: MusicRandom3
+  icon:
+    sprite: _RS/Objects/Devices/tapes.rsi
+    state: tape11
+  product: CrateMusicRandom3
+  cost: 1230
+  category: Service
+  group: market
+
+- type: cargoProduct
+  id: MusicRandom4
+  icon:
+    sprite: _RS/Objects/Devices/tapes.rsi
+    state: tape19
+  product: CrateMusicRandom4
+  cost: 280
+  category: Service
+  group: market

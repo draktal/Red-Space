@@ -1,0 +1,23 @@
+- type: customGhost
+  id: gooseduck-ghost
+  ckey: gooseduck
+  sprite: /Textures/_RS/CustomGhosts/gooseduck-ghost.rsi
+  alpha: 0.8
+  ghostName: GooseDuck
+  ghostDescription: ...
+
+- type: customGhost
+  id: Konnor_Whilhav-ghost
+  ckey: Konnor_Whilhav
+  sprite: /Textures/_RS/CustomGhosts/Konnor_Whilhav-ghost.rsi
+  alpha: 0.8
+  ghostName: Konnor_Whilhav
+  ghostDescription: "C17.MPF.OFC #2810"
+
+- type: customGhost
+  id: TvoiOtec-ghost
+  ckey: TvoiOtec
+  sprite: /Textures/_RS/CustomGhosts/TvoiOtec-ghost.rsi
+  alpha: 0.8
+  ghostName: TvoiOtec
+  ghostDescription: ""
