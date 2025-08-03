@@ -109,3 +109,34 @@
   id: Hew
   files:
   - /Audio/Items/Toys/hew.ogg
+
+- type: soundCollection
+  id: MaleVulpaScreams
+  files:
+    - /Audio/Voice/Vulpkanin/Growl1.ogg
+    - /Audio/Voice/Vulpkanin/Growl2.ogg
+    - /Audio/Voice/Vulpkanin/Growl3.ogg
+    - /Audio/Voice/Vulpkanin/Growl4.ogg
+    - /Audio/Voice/Vulpkanin/Growl5.ogg
+
+- type: soundCollection
+  id: FemaleVulpaScreams
+  files:
+    - /Audio/Voice/Vulpkanin/Scream1.ogg
+    - /Audio/Voice/Vulpkanin/Scream2.ogg
+
+- type: soundCollection
+  id: VulpHowls
+  files:
+  - /Audio/Voice/Vulpkanin/Howl1.ogg
+  - /Audio/Voice/Vulpkanin/Howl2.ogg
+
+- type: soundCollection
+  id: VulpDeathGasp
+  files:
+  - /Audio/Voice/Vulpkanin/Dead.ogg
+
+- type: soundCollection
+  id: VulpWhine
+  files:
+  - /Audio/Voice/Vulpkanin/Whine.ogg

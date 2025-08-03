@@ -1,0 +1,90 @@
+- type: entity
+  id: CrateMusicRandom1
+  parent: CrateGenericSteel
+  name: ящик случайной музыки 1
+  components:
+  - type: StorageFill
+    contents:
+    - id: MusicTape2
+      amount: 1
+    - id: MusicTape6
+      amount: 1
+    - id: MusicTape9
+      amount: 1
+    - id: MusicTape26
+      amount: 1
+    - id: MusicTape27
+      amount: 1
+    - id: MusicTape28
+      amount: 1
+    - id: MusicTape29
+      amount: 1
+    - id: MusicTape30
+      amount: 1
+
+- type: entity
+  id: CrateMusicRandom2
+  parent: CrateGenericSteel
+  name: ящик случайной музыки 2
+  components:
+  - type: StorageFill
+    contents:
+    - id: MusicTape3
+      amount: 1
+    - id: MusicTape15
+      amount: 1
+    - id: MusicTape16
+      amount: 1
+    - id: MusicTape17
+      amount: 1
+    - id: MusicTape18
+      amount: 1
+    - id: MusicTape19
+      amount: 1
+    - id: MusicTape20
+      amount: 1
+    - id: MusicTape24
+      amount: 1
+    - id: MusicTape25
+      amount: 1
+
+
+- type: entity
+  id: CrateMusicRandom3
+  parent: CrateGenericSteel
+  name: ящик случайной музыки 3
+  components:
+  - type: StorageFill
+    contents:
+    - id: MusicTape4
+      amount: 1
+    - id: MusicTape5
+      amount: 1
+    - id: MusicTape22
+      amount: 1
+    - id: MusicTape1
+      amount: 1
+    - id: MusicTape10
+      amount: 1
+    - id: MusicTape11
+      amount: 1
+    - id: MusicTape12
+      amount: 1
+    - id: MusicTape13
+      amount: 1
+    - id: MusicTape14
+      amount: 1
+    - id: MusicTape23
+      amount: 1
+
+- type: entity
+  id: CrateMusicRandom4
+  parent: CrateGenericSteel
+  name: ящик случайной музыки 4
+  components:
+  - type: StorageFill
+    contents:
+    - id: MusicTape7
+      amount: 1
+    - id: MusicTape8
+      amount: 1

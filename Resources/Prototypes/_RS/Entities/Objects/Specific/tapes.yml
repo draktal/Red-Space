@@ -1,0 +1,373 @@
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape31
+  name: Кассета (Rovio - Bad piggies main theme)
+  description:
+  components:
+  - type: Sprite
+    state: tape14
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/piggies.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape32
+  name: Кассета (Childish Gambino - Heartbeat)
+  description:
+  components:
+  - type: Sprite
+    state: tape27
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/heartbeat.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape33
+  name: Кассета (Подлая музыка)
+  description:
+  components:
+  - type: Sprite
+    state: tape5
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/podlaia.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape34
+  name: Кассета (Mike Klubnika - 70K)
+  description:
+  components:
+  - type: Sprite
+    state: tape32
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/70K.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape35
+  name: Кассета (Mike Klubnika - Blank Shell)
+  description:
+  components:
+  - type: Sprite
+    state: tape19
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/BlankShell.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape36
+  name: Кассета (Mike Klubnika - General Release)
+  description:
+  components:
+  - type: Sprite
+    state: tape8
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/GeneralRelease.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape37
+  name: Кассета (Toby fox - Neverending Night)
+  description:
+  components:
+  - type: Sprite
+    state: tape23
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/ch4_credits.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape38
+  name: Кассета (Toby fox - 12AM)
+  description:
+  components:
+  - type: Sprite
+    state: tape35
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/church_lw_night.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape39
+  name: Кассета (Toby fox - Dark Sanctuary)
+  description:
+  components:
+  - type: Sprite
+    state: tape11
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/church_wip.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape40
+  name: Кассета (Toby fox - The Third Sanctuary)
+  description:
+  components:
+  - type: Sprite
+    state: tape3
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/church_zone3.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape41
+  name: Кассета (Toby fox - Black Knife)
+  description:
+  components:
+  - type: Sprite
+    state: tape17
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/knight.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape42
+  name: Кассета (Toby fox - The place where it rained)
+  description:
+  components:
+  - type: Sprite
+    state: tape29
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/rain.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape43
+  name: Кассета (Toby fox - Ruder Buster)
+  description:
+  components:
+  - type: Sprite
+    state: tape7
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/rudebuster_boss.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape44
+  name: Кассета (Серёга Пират - Баунти Хантер)
+  description:
+  components:
+  - type: Sprite
+    state: tape21
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/bounty_hunter.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape45
+  name: Кассета (Серёга Пират - ЧСВ)
+  description:
+  components:
+  - type: Sprite
+    state: tape12
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/chsv.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape46
+  name: Кассета (Серёга Пират - Dead Inside)
+  description:
+  components:
+  - type: Sprite
+    state: tape30
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/dead_inside.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape47
+  name: Кассета (Серёга Пират - Если бы бог играл в доту)
+  description:
+  components:
+  - type: Sprite
+    state: tape4
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/esli_bi_bog.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape48
+  name: Кассета (Серёга Пират - Это не тот трек)
+  description:
+  components:
+  - type: Sprite
+    state: tape16
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/eto_ne_tot_trek.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape49
+  name: Кассета (Серёга Пират - Это панк рок)
+  description:
+  components:
+  - type: Sprite
+    state: tape9
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/eto_pank_rock.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape50
+  name: Кассета (Винтаж - Ева)
+  description:
+  components:
+  - type: Sprite
+    state: tape24
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/eva.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape51
+  name: Кассета (Агата Кристи - Как на войне)
+  description:
+  components:
+  - type: Sprite
+    state: tape1
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/kak_na_voyne.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape52
+  name: Кассета (Серёга пират - Команда виновата)
+  description:
+  components:
+  - type: Sprite
+    state: tape33
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/komanda_vinovata.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape53
+  name: Кассета (Серёга пират - Остановите катку)
+  description:
+  components:
+  - type: Sprite
+    state: tape25
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/onstanovite_katku.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape54
+  name: Кассета (Серёга пират - Отменил тп на антимаге)
+  description:
+  components:
+  - type: Sprite
+    state: tape6
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/otmenil_tp.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape55
+  name: Кассета (Серёга пират - Пауза)
+  description:
+  components:
+  - type: Sprite
+    state: tape18
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/Pauza.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape56
+  name: Кассета (Серёга пират - Песня в поддержку солнышек)
+  description:
+  components:
+  - type: Sprite
+    state: tape31
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/pesnya_v_podderzku.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape57
+  name: Кассета (Серёга пират - Питер)
+  description:
+  components:
+  - type: Sprite
+    state: tape2
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/piter.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape58
+  name: Кассета (Серёга пират - Плюс Мораль)
+  description:
+  components:
+  - type: Sprite
+    state: tape15
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/pluys_moral.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape59
+  name: Кассета (Серёга пират - Свинья)
+  description:
+  components:
+  - type: Sprite
+    state: tape20
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/svinyua.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape60
+  name: Кассета (Серёга пират - Травоман)
+  description:
+  components:
+  - type: Sprite
+    state: tape10
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/travoman.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape61
+  name: Кассета (Серёга пират - В этой траве)
+  description:
+  components:
+  - type: Sprite
+    state: tape34
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/v_etoi_trave.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape62
+  name: Кассета (Серёга пират - Зомби апокалипсис)
+  description:
+  components:
+  - type: Sprite
+    state: tape13
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/zombi_apocalypse.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape63
+  name: Кассета (Red sun in the sky)
+  description:
+  components:
+  - type: Sprite
+    state: tape28
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/RedSunInTheSky.ogg"
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape64
+  name: Кассета (Joji - tick tock)
+  description:
+  components:
+  - type: Sprite
+    state: tape32
+  - type: MusicTape
+    sound: "/Audio/_RS/TapePlayer/Tracks/ticktock.ogg"
